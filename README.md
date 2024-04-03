@@ -14,7 +14,7 @@ This project demonstrates automated tests using Selenium WebDriver in C#. The pr
 
     bash
 
-    git clone https:
+    git clone https://github.com/RaginiYerawar/s.Oliver_TestProject_Assignment.git
 
     Open the project in your preferred IDE (e.g., Visual Studio).
 
